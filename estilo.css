@@ -1,0 +1,82 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #7f1e47;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+}
+
+#nomeprincip{
+    text-align: center;
+}
+#biografia{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px;
+    max-width: fit-content;
+    margin-left: 10px;
+    padding: 20px;
+    margin-left: 320px;
+    margin-top: -300px;
+    background-color: #422343;
+}
+
+
+#foto1{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+#conteudo{
+    border: none;
+    border-radius: 50px;
+    max-width: fit-content;
+    max-height: fit-content;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+    background-color: #422343;
+}
+
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+
+tr, th{
+    text-align: center;
+    border: solid;
+    border-radius: 20px;
+    background-color: #ea284b;
+    padding: 10px;
+}
+
+td{
+    border: solid;
+    background-color: #ea284b;
+    border-radius: 20px;
+    padding: 10px;
+}
+hr{
+    border: solid 1px;
+    border-style: dotted;
+}
+#formulario{
+    border: none;
+    border-radius: 100px;
+    background-color: #422343;
+}
+
+#form1{
+    text-align: center;
+}
+
+h1,h2,h3,p{
+    color: white;
+}
